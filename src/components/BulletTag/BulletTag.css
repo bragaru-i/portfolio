@@ -1,0 +1,39 @@
+.bullet-tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+  background: #f0f4f9;
+  padding: 0.5rem 1rem;
+  width: inherit;
+  margin: 0.6rem 0.3rem;
+}
+.bullet-tag__text {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #1d222b;
+}
+.bullet__ellipse {
+  height: 0.8rem;
+  width: 0.8rem;
+  border-radius: 50%;
+  background-color: black;
+
+  margin-right: 0.4rem;
+}
+.bullet__ellipse--blue {
+  background-color: #468fa6;
+}
+.bullet__ellipse--yellow {
+  background-color: #f2bb13;
+}
+.bullet__ellipse--reddish {
+  background-color: #e44d26;
+}
+.bullet__ellipse--blue-1 {
+  background-color: #264de4;
+}
+.bullet__ellipse--green {
+  background-color: #3d7b28;
+}

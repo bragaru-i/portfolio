@@ -1,0 +1,47 @@
+header {
+  height: 100vh;
+  background: var(--overlay-gradient), url('../../img/hero2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  width: 100%;
+  line-height: 1.4;
+  font-family: var(--font-headings);
+}
+.h1--main {
+  font-size: 400%;
+}
+.h1--sub {
+  font-size: 100%;
+  align-self: center;
+  text-align: center;
+  width: 75%;
+  color: var(--color-3);
+  line-height: 1.2;
+  text-align: end;
+}
+.h1__photo {
+  background-image: url('../../img/my-beautiful-awesome-face.jpg');
+  width: 14rem;
+  height: 14rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: center;
+  background-size: contain;
+  border-radius: 10rem;
+  margin-left: 4rem;
+}
+.h1__name-greetings {
+  font-size: 200%;
+}
+.h1__jobs__list {
+  font-family: var(--font-body);
+  font-size: 55%;
+}
+
+.header__cta {
+  margin-top: 6rem;
+  margin-left: 1rem;
+}
