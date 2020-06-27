@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8715ae28.chunk.css",
+    "main.js": "/portfolio/static/js/main.83702997.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.83702997.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.6e0b3c88.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.6e0b3c88.js.map",
+    "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
+    "static/js/2.ed2e50ac.chunk.js": "/portfolio/static/js/2.ed2e50ac.chunk.js",
+    "static/js/2.ed2e50ac.chunk.js.map": "/portfolio/static/js/2.ed2e50ac.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.26cf69909728629782edd5a3aa98145b.js": "/portfolio/precache-manifest.26cf69909728629782edd5a3aa98145b.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.8715ae28.chunk.css.map": "/portfolio/static/css/main.8715ae28.chunk.css.map",
+    "static/js/2.ed2e50ac.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ed2e50ac.chunk.js.LICENSE.txt",
+    "static/media/casino-api.png": "/portfolio/static/media/casino-api.54ae0457.png",
+    "static/media/food-travel.png": "/portfolio/static/media/food-travel.7f29fa4e.png",
+    "static/media/Contact.css": "/portfolio/static/media/footer.8ffc6e2d.jpg",
+    "static/media/Home.css": "/portfolio/static/media/my-beautiful-awesome-face.8bce280a.jpg",
+    "static/media/ls-blog.png": "/portfolio/static/media/ls-blog.6baa81e9.png",
+    "static/media/s7.png": "/portfolio/static/media/s7.e4c0f49d.png",
+    "static/media/travel-agency.jpg": "/portfolio/static/media/travel-agency.2c52760f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e0b3c88.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.ed2e50ac.chunk.js",
+    "static/css/main.8715ae28.chunk.css",
+    "static/js/main.83702997.chunk.js"
+  ]
+}
