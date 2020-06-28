@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e160c87cf99b92c54243863c05be8359",
+    "revision": "94043bbf64bc7316fcb524c0a15a6a64",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "581bfd8d55710a11ece8",
+    "revision": "c756ff1ad17123f06d65",
     "url": "/portfolio/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "6bf533b542f82124a0c6",
-    "url": "/portfolio/static/css/main.8715ae28.chunk.css"
+    "revision": "220e867f0b4139790e72",
+    "url": "/portfolio/static/css/main.7fc5922b.chunk.css"
   },
   {
-    "revision": "581bfd8d55710a11ece8",
-    "url": "/portfolio/static/js/2.ed2e50ac.chunk.js"
+    "revision": "c756ff1ad17123f06d65",
+    "url": "/portfolio/static/js/2.6c55afec.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.ed2e50ac.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.6c55afec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6bf533b542f82124a0c6",
-    "url": "/portfolio/static/js/main.83702997.chunk.js"
+    "revision": "220e867f0b4139790e72",
+    "url": "/portfolio/static/js/main.0da38a46.chunk.js"
   },
   {
     "revision": "d4ed5c68e79436c711a8",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "54ae0457fa2049d45d5d11e2d28a2a2c",
     "url": "/portfolio/static/media/casino-api.54ae0457.png"
-  },
-  {
-    "revision": "4c2215ce05b00da372e7fe4c8ae158e3",
-    "url": "/portfolio/static/media/food-travel.4c2215ce.png"
   },
   {
     "revision": "7f29fa4e44ac624528d418ff3c266bda",
@@ -56,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/my-beautiful-awesome-face.8bce280a.jpg"
   },
   {
-    "revision": "e4c0f49df14c8aff9f0fd651bc933dea",
-    "url": "/portfolio/static/media/s7.e4c0f49d.png"
+    "revision": "64a3fce0a2b73feac420243233d207f6",
+    "url": "/portfolio/static/media/s7.64a3fce0.png"
   },
   {
     "revision": "2c52760f14cc8238ff74d67d96112693",
