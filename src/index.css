@@ -15,6 +15,7 @@
 /* font weight for body: 300 400 600 */
 #root {
   position: relative;
+  margin: 0 auto;
 }
 *,
 *::after,
@@ -187,10 +188,4 @@ a {
 
 .spacer {
   flex: 1;
-}
-
-@media (max-width: 1024px) {
-  .row {
-    width: 76rem;
-  }
 }
