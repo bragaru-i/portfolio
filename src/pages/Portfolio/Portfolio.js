@@ -2,7 +2,6 @@ import React from 'react';
 
 import './Portfolio.css';
 import db from '../../dummyDB';
-import img1 from '../../img/cards/small/food-travel.png';
 
 import PortfolioCard from '../../components/PortfolioCard/PortfolioCard';
 

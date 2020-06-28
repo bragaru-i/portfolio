@@ -189,12 +189,8 @@ a {
   flex: 1;
 }
 
-.icon-wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  height: 2rem;
-  width: 2rem;
-  background-color: grey;
+@media (max-width: 1024px) {
+  .row {
+    width: 76rem;
+  }
 }
